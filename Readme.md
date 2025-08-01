@@ -1,6 +1,6 @@
-# Painel de Manutenção em CMD
+# Painel de Manutenção
 
-Este é um script de manutenção e diagnóstico desenvolvido em **Batch (CMD)** para uso em ambientes Windows. O objetivo é oferecer um **painel interativo** que automatiza diversas tarefas comuns de infraestrutura de TI e suporte técnico.
+Script de manutenção e diagnóstico desenvolvido em **Bat** para uso em ambientes Windows. O objetivo é oferecer um **painel interativo** que automatiza diversas tarefas comuns de infraestrutura de TI e suporte técnico.
 
 Ideal para quem atua com **helpdesk, suporte N1/N2** ou deseja manter seu próprio computador limpo e funcional com um clique.
 
